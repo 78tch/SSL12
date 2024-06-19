@@ -1,10 +1,11 @@
 # SSL12
 ## 使い始め
 1. メーカーのHPでアカウント作成し、製品登録する。  https://www.solidstatelogic.com/get-started  
-2. SSL 12 を完全に機能させるには、「SSL 360° ソフトウェア」がコンピュータにインストールされている必要がある。  https://www.solidstatelogic.com/support-page/downloads  
-3. モニターコントロールの割り当て、複数の独立したヘッドフォンミックス、ループバックソースの選択、３つのユーザーボタンの割り付け、などの設定ができる。  
-4. 必要に応じて「The SSL Production Pack」をインストールする。SSL プラグインのうち、永続ライセンスなのは、「Vocalstrip 2」と「Drumstrip」の２つのみ。  
-5. 
+2. Macには、つないだらそれだけで認識され、デスクトップ音声の出力先にできる。  
+3. Macでは、「Core Audio」をサポートしているDAWであれば利用できる。  
+4. SSL 12 を完全に機能させるには、「SSL 360° ソフトウェア」がコンピュータにインストールされている必要がある。  https://www.solidstatelogic.com/support-page/downloads  
+5. 「SSL 360° ソフトウェア」の「SSL 12 Mixer Page」で、モニターコントロールの割り当て、複数の独立したヘッドフォンミックス、ループバックソースの選択、３つのユーザーボタンの割り付け、などの設定ができる。  
+6. 必要に応じて「The SSL Production Pack」をインストールする。SSL プラグインのうち、永続ライセンスなのは、「Vocalstrip 2」と「Drumstrip」の２つのみ。「同梱ソフト」の項を参照。  
   
 ## 各部位のはたらき
 1. 「+48V」：コンボ XLR コネクタのファンタム電源を有効にする。  
@@ -17,32 +18,34 @@
 8. 「前面のHi-Z入力」：これに接続すると、背面パネルのマイク / ライン入力はカットされる。
   
 ## SSL 12 Mixer Page
-- 複数のヘッドフォンミックスを簡単に設定する
-- コントロールルームモニターミックスを設定する
-- ループバックソースの選択
-- ユーザーアサイン可能な３つのフロントパネルボタンの変更
-- +48V、LINE、HI-PASSの各機能は、ソフトウェアミキサーからもON/OFFできる。
-
-## 同梱ソフト
-The SSL Production Pack :
-- SSL Complete の３か月フリーアクセス
-- Auto-Tune Unlimited の３か月フリーアクセス
-- Arcade by Output の３か月フリーアクセス
-- SSL Vocalstrip 2 と Drumstrip プラグインの永続ライセンス
-- IK Multimedia Amplitube 5 SE
-- Celemony Melodyne Essential
-- Native Instruments Hybrid Keys & Komplete Start
-- Ableton Live 11 Lite
-- AAS Session Bundle plug-ins
-- 1.5 GB Samples from Loopcloud
+- 複数のヘッドフォンミックスを簡単に設定する  
+- コントロールルームモニターミックスを設定する  
+- ループバックソースの選択  
+- ユーザーアサイン可能な３つのフロントパネルボタンの変更  
+- +48V、LINE、HI-PASSの各機能は、ソフトウェアミキサーからもON/OFFできる。  
   
-##  特徴
+## 同梱ソフト
+The SSL Production Pack :  
+- SSL Complete の３か月フリーアクセス  
+- Auto-Tune Unlimited の３か月フリーアクセス  
+- Arcade by Output の３か月フリーアクセス  
+- SSL Vocalstrip 2 と Drumstrip プラグインの永続ライセンス  
+  
+その他：
+- IK Multimedia Amplitube 5 SE  
+- Celemony Melodyne Essential  
+- Native Instruments Hybrid Keys & Komplete Start  
+- Ableton Live 11 Lite  
+- AAS Session Bundle plug-ins  
+- 1.5 GB Samples from Loopcloud  
+  
+##  特徴  
 1. 標準搭載のトークバックはヘッドフォン A、B、Line Out 3、４ に割込み可能。  
 2. ４アウトプットであるが、２つのヘッドフォンアウトをバランス/アンバランスのモノ出力として、拡張アウトプットとして使用できる。  
 3. フロントパネルの３つのスイッチは標準でモニター CUT、ALT スピーカー切替、トークバックマイクの使用・不使用と設定されているが、SSL 360° ソフトウェアにより、DIM、CUT、MONO、SUM、ALT、L 位相反転、トークバックのいずれかを自由に割り当てることができる。  
 4. Mac では「Core Audio」を、Windows では「ASIO/WDM」をサポートしているDAWであれば、どのDAWでも使用することができる。  
   
-## 公式HPなど
+## 公式HPなど  
 1. 製品HP  https://www.solid-state-logic.co.jp/products/ssl-12  
 2. アカウント作成・ログイン  https://www.solid-state-logic.co.jp/get-started  
 3. ソフト・マニュアルダウンロード  https://www.solid-state-logic.co.jp/products/ssl-12?tab=download  
