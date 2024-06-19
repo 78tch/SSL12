@@ -19,7 +19,9 @@ The SSL Production Pack :
 - AAS Session Bundle plug-ins
 - 1.5 GB Samples from Loopcloud
   
-##  つ
+##  特徴
+1. 標準搭載のトークバックはヘッドフォン A、B、Line Out 3、４ に割込み可能。  
+2. 
   
 ## 公式HPなど
 1. 製品HP  https://www.solid-state-logic.co.jp/products/ssl-12  
