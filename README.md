@@ -1,9 +1,10 @@
 # SSL12
 ## 使い始め
 1. メーカーのHPでアカウント作成し、製品登録する。  
-2. SSL 360° ソフトウェアをインストールする。
-3. 必要に応じて「The SSL Production Pack」をインストールする。SSL プラグインのうち、永続ライセンスなのは、「Vocalstrip 2」と「Drumstrip」の２つのみ。
-4. 
+2. SSL 360° ソフトウェアをインストールする。  
+3. ループバック設定などする。  
+4. 必要に応じて「The SSL Production Pack」をインストールする。SSL プラグインのうち、永続ライセンスなのは、「Vocalstrip 2」と「Drumstrip」の２つのみ。  
+5. 
 
 ## 同梱ソフト
 The SSL Production Pack :
